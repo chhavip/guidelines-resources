@@ -62,6 +62,9 @@
   * [Google Java Style](https://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 *   [Secure Coding Guidelines for Java SE](http://www.oracle.com/technetwork/java/seccodeguide-139067.html)
 
+#####Android
+*   [Udacity - Android Developer Nanodegree](https://www.udacity.com/course/android-developer-nanodegree--nd801)
+
 #####Javascript
 * [Code academy](http://www.codecademy.com/en/tracks/javascript)
 * [Nodeschool](http://nodeschool.io)
@@ -177,6 +180,7 @@
 * AWS Loft Talk [An Engineer's Tour of the Internet of Things](https://www.youtube.com/watch?v=yElH0mGzEkE) (Sep 2015 video)
 * [BuildItSecure.ly](http://builditsecure.ly/#resources) - security researchers curating a learn-how-to-build-IoT-securely site ([DEF CON talk introducing initiative](https://youtu.be/WHdU4LutBGU) - initiative mentioned at 37:36)
 * [http://iot.eclipse.org/getting-started](http://iot.eclipse.org/getting-started) - includes Connected Greenhouse tutorial (uses Java language)
+
 
 #####Misc
 *   [Code School - Discover Chrome DevTools](http://discover-devtools.codeschool.com/)
